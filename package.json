@@ -1,0 +1,9 @@
+{
+  "name": "@quandha/parking-sensor",
+  "version": "1.0.0",
+  "description": "Parking sensor",
+  "main": "index.js",
+  "author": "@quandha",
+  "repository": "https://github.com/dhaq/parking-sensor.git",
+  "license": "none"
+}
